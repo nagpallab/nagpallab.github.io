@@ -10,11 +10,11 @@ title: News
   </li>
   <li>
     <span class="news-date">2026</span>
-    <span>Paper on pervasive PRSxE interactions accepted at <em>Nature Genetics</em>.</span>
+    <span>Sini's paper on pervasive PRSxE interactions accepted at <em>Nature Genetics</em>.</span>
   </li>
   <li>
     <span class="news-date">2025</span>
-    <span>Collaborative paper on sex-biased mechanisms of Crohn's disease recurrence published in <em>Gastroenterology</em>.</span>
+    <span>Sini's collaborative paper on sex-biased mechanisms of Crohn's disease recurrence published in <em>Gastroenterology</em>.</span>
   </li>
   <li>
     <span class="news-date">2025</span>
