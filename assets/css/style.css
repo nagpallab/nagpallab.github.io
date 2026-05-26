@@ -56,13 +56,13 @@ a:hover { color: var(--color-accent); }
 .site-logo { text-decoration: none; display: flex; flex-direction: column; gap: 0; }
 .logo-text {
   font-family: var(--font-heading);
-  font-size: 1.45rem;
+  font-size: 1.7rem;
   font-weight: 700;
   color: var(--color-accent);
   line-height: 1.2;
 }
 .logo-sub {
-  font-size: 0.78rem;
+  font-size: 0.85rem;
   color: var(--color-text-muted);
   letter-spacing: 0.08em;
   text-transform: uppercase;
