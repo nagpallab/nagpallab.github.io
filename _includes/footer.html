@@ -1,23 +1,24 @@
 <footer class="site-footer">
   <div class="container">
-    <div class="footer-top">
-      <div class="footer-info">
+    <div class="footer-grid">
+      <div class="footer-col">
         <p class="footer-title">Nagpal Lab</p>
         <p>Koita Centre for Digital Health<br>
         Indian Institute of Technology Bombay<br>
         Mumbai, India</p>
       </div>
-      <div class="footer-links">
+      <div class="footer-col">
+        <p class="footer-title">Links</p>
         <a href="{{ site.scholar_url }}" target="_blank" rel="noopener">Google Scholar</a>
         <a href="{{ site.twitter_url }}" target="_blank" rel="noopener">X / Twitter</a>
         <a href="{{ site.linkedin_url }}" target="_blank" rel="noopener">LinkedIn</a>
         <a href="{{ site.bluesky_url }}" target="_blank" rel="noopener">Bluesky</a>
         <a href="{{ site.github_url }}" target="_blank" rel="noopener">GitHub</a>
       </div>
-    </div>
-    <div class="footer-bottom">
-      <p class="footer-copy">&copy; {{ 'now' | date: "%Y" }} Nagpal Lab</p>
-      <img src="/assets/images/logo.jpeg" alt="KCDH, IIT Bombay" class="footer-logo">
+      <div class="footer-col footer-col-logo">
+        <p class="footer-copy">&copy; {{ 'now' | date: "%Y" }} Nagpal Lab</p>
+        <img src="/assets/images/logo.jpeg" alt="KCDH, IIT Bombay" class="footer-logo">
+      </div>
     </div>
   </div>
 </footer>
