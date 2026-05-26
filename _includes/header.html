@@ -1,0 +1,22 @@
+<header class="site-header">
+  <div class="container header-inner">
+    <a href="{{ '/' | relative_url }}" class="site-logo">
+      <span class="logo-text">Nagpal Lab</span>
+      <span class="logo-sub">IIT Bombay</span>
+    </a>
+    <button class="menu-toggle" aria-label="Toggle navigation">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="site-nav">
+      {% for link in site.nav_links %}
+        <a href="{{ link.url | relative_url }}" class="nav-link {% if page.url == link.url %}active{% endif %}">{{ link.title }}</a>
+      {% endfor %}
+    </nav>
+  </div>
+</header>
+<script>
+  document.querySelector('.menu-toggle').addEventListener('click', function() {
+    document.querySelector('.site-nav').classList.toggle('open');
+    this.classList.toggle('open');
+  });
+</script>

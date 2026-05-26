@@ -1,0 +1,33 @@
+title: Nagpal Lab
+description: >-
+  Nagpal Lab at IIT Bombay — Statistical genetics and integrative genomics
+  for precision medicine.
+url: "https://nagpallab.github.io"
+baseurl: ""
+
+markdown: kramdown
+permalink: /news/:year/:month/:day/:title/
+
+# Navigation
+nav_links:
+  - title: Research
+    url: /research/
+  - title: Publications
+    url: /publications/
+  - title: People
+    url: /people/
+  - title: Teaching
+    url: /teaching/
+  - title: News
+    url: /news/
+  - title: Join Us
+    url: /joinus/
+  - title: Contact
+    url: /contact/
+
+# Social links
+scholar_url: "https://scholar.google.com/citations?user=Xm1CBE4AAAAJ&hl=en"
+twitter_url: "https://x.com/NagpalSini"
+linkedin_url: "https://www.linkedin.com/in/sini-nagpal-phd-19745288/"
+bluesky_url: "https://bsky.app/profile/nagpalsini.bsky.social"
+github_url: "https://github.com/nagpallab"
