@@ -360,12 +360,13 @@ a:hover { color: var(--color-accent); }
   font-size: 0.95rem;
 }
 
-.footer-inner {
+.footer-top {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
   gap: 32px;
-  flex-wrap: wrap;
+  padding-bottom: 24px;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
 }
 
 .footer-title {
@@ -379,11 +380,16 @@ a:hover { color: var(--color-accent); }
 .footer-links a { color: rgba(255,255,255,0.6); }
 .footer-links a:hover { color: #fff; }
 
+.footer-bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 20px;
+}
 .footer-copy { color: rgba(255,255,255,0.35); font-size: 0.85rem; }
 .footer-logo {
-  height: 45px;
+  height: 40px;
   width: auto;
-  margin-top: 12px;
   opacity: 0.7;
 }
 
@@ -408,7 +414,8 @@ a:hover { color: var(--color-accent); }
   .hero-photo { width: 150px; height: 150px; }
 
   .contact-grid { grid-template-columns: 1fr; }
-  .footer-inner { flex-direction: column; }
+  .footer-top { flex-direction: column; }
+  .footer-bottom { flex-direction: column; gap: 12px; align-items: flex-start; }
 
   .research-areas { grid-template-columns: 1fr; }
   .research-block-content { flex-direction: column; }
