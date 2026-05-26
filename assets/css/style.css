@@ -56,13 +56,13 @@ a:hover { color: var(--color-accent); }
 .site-logo { text-decoration: none; display: flex; flex-direction: column; gap: 0; }
 .logo-text {
   font-family: var(--font-heading);
-  font-size: 1.35rem;
+  font-size: 1.45rem;
   font-weight: 700;
   color: var(--color-accent);
   line-height: 1.2;
 }
 .logo-sub {
-  font-size: 0.72rem;
+  font-size: 0.78rem;
   color: var(--color-text-muted);
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -70,7 +70,7 @@ a:hover { color: var(--color-accent); }
 
 .site-nav { display: flex; gap: 6px; }
 .nav-link {
-  font-size: 0.88rem;
+  font-size: 0.95rem;
   font-weight: 600;
   color: var(--color-text-muted);
   padding: 6px 12px;
@@ -103,20 +103,20 @@ a:hover { color: var(--color-accent); }
 .hero-text { flex: 1; }
 .hero-text h1 {
   font-family: var(--font-heading);
-  font-size: 2.6rem;
+  font-size: 2.8rem;
   font-weight: 700;
   line-height: 1.2;
   margin-bottom: 12px;
 }
 .hero-text .hero-tagline {
-  font-size: 1.15rem;
+  font-size: 1.25rem;
   font-weight: 300;
   opacity: 0.9;
   margin-bottom: 20px;
   line-height: 1.6;
 }
 .hero-text .hero-affiliation {
-  font-size: 0.92rem;
+  font-size: 1rem;
   opacity: 0.7;
   letter-spacing: 0.03em;
 }
@@ -138,7 +138,7 @@ a:hover { color: var(--color-accent); }
 
 .section-title {
   font-family: var(--font-heading);
-  font-size: 1.6rem;
+  font-size: 1.75rem;
   font-weight: 500;
   color: var(--color-accent);
   margin-bottom: 24px;
@@ -162,11 +162,11 @@ a:hover { color: var(--color-accent); }
 .research-card:hover { box-shadow: 0 4px 20px rgba(0,0,0,0.06); }
 .research-card h3 {
   font-family: var(--font-heading);
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   color: var(--color-accent);
   margin-bottom: 10px;
 }
-.research-card p { font-size: 0.92rem; color: var(--color-text-muted); }
+.research-card p { font-size: 1rem; color: var(--color-text-muted); }
 
 /* News list on homepage */
 .news-list { list-style: none; }
@@ -176,10 +176,11 @@ a:hover { color: var(--color-accent); }
   display: flex;
   gap: 16px;
   align-items: baseline;
+  font-size: 1rem;
 }
 .news-list li:last-child { border-bottom: none; }
 .news-date {
-  font-size: 0.82rem;
+  font-size: 0.9rem;
   color: var(--color-text-muted);
   min-width: 100px;
   flex-shrink: 0;
@@ -189,7 +190,7 @@ a:hover { color: var(--color-accent); }
   display: inline-block;
   margin-top: 20px;
   font-weight: 600;
-  font-size: 0.92rem;
+  font-size: 1rem;
   color: var(--color-accent-light);
 }
 .more-link::after { content: ' →'; }
@@ -199,7 +200,7 @@ a:hover { color: var(--color-accent); }
 
 .page-title {
   font-family: var(--font-heading);
-  font-size: 2rem;
+  font-size: 2.2rem;
   font-weight: 500;
   color: var(--color-accent);
   margin-bottom: 32px;
@@ -211,7 +212,7 @@ a:hover { color: var(--color-accent); }
 .research-block { margin-bottom: 48px; }
 .research-block h2 {
   font-family: var(--font-heading);
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   color: var(--color-accent);
   margin-bottom: 14px;
 }
@@ -219,7 +220,7 @@ a:hover { color: var(--color-accent); }
 
 .key-pubs { margin-top: 12px; padding-left: 20px; }
 .key-pubs li {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
   color: var(--color-text-muted);
   margin-bottom: 6px;
 }
@@ -227,7 +228,7 @@ a:hover { color: var(--color-accent); }
 /* ---- PUBLICATIONS PAGE ---- */
 .pub-year {
   font-family: var(--font-heading);
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   color: var(--color-accent);
   margin-top: 36px;
   margin-bottom: 14px;
@@ -238,18 +239,18 @@ a:hover { color: var(--color-accent); }
 .pub-list li {
   padding: 12px 0;
   border-bottom: 1px solid #f0ece4;
-  font-size: 0.93rem;
+  font-size: 1rem;
   line-height: 1.6;
 }
 .pub-list li:last-child { border-bottom: none; }
 .pub-journal { font-style: italic; color: var(--color-accent-light); }
-.pub-note { font-size: 0.82rem; color: var(--color-text-muted); }
+.pub-note { font-size: 0.9rem; color: var(--color-text-muted); }
 
 /* ---- PEOPLE PAGE ---- */
 .people-section { margin-bottom: 48px; }
 .people-section h2 {
   font-family: var(--font-heading);
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   color: var(--color-accent);
   margin-bottom: 20px;
 }
@@ -272,11 +273,11 @@ a:hover { color: var(--color-accent); }
 }
 .person-name {
   font-weight: 600;
-  font-size: 1rem;
+  font-size: 1.08rem;
   color: var(--color-text);
 }
 .person-role {
-  font-size: 0.85rem;
+  font-size: 0.93rem;
   color: var(--color-text-muted);
   margin-top: 2px;
 }
@@ -284,12 +285,12 @@ a:hover { color: var(--color-accent); }
 /* ---- TEACHING ---- */
 .course-item { margin-bottom: 28px; }
 .course-item h3 {
-  font-size: 1.05rem;
+  font-size: 1.15rem;
   color: var(--color-accent);
   margin-bottom: 4px;
 }
 .course-item .course-meta {
-  font-size: 0.85rem;
+  font-size: 0.93rem;
   color: var(--color-text-muted);
   margin-bottom: 6px;
 }
@@ -313,6 +314,7 @@ a:hover { color: var(--color-accent); }
 .position-card h3 {
   color: var(--color-accent);
   margin-bottom: 8px;
+  font-size: 1.15rem;
 }
 
 /* ---- CONTACT ---- */
@@ -323,7 +325,7 @@ a:hover { color: var(--color-accent); }
   margin-top: 20px;
 }
 .contact-block h3 {
-  font-size: 1rem;
+  font-size: 1.1rem;
   color: var(--color-accent);
   margin-bottom: 10px;
 }
@@ -333,7 +335,7 @@ a:hover { color: var(--color-accent); }
   background: #1e2a33;
   color: rgba(255,255,255,0.7);
   padding: 40px 0;
-  font-size: 0.88rem;
+  font-size: 0.95rem;
 }
 
 .footer-inner {
@@ -346,7 +348,7 @@ a:hover { color: var(--color-accent); }
 
 .footer-title {
   font-family: var(--font-heading);
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   color: #fff;
   margin-bottom: 6px;
 }
@@ -355,7 +357,7 @@ a:hover { color: var(--color-accent); }
 .footer-links a { color: rgba(255,255,255,0.6); }
 .footer-links a:hover { color: #fff; }
 
-.footer-copy { color: rgba(255,255,255,0.35); font-size: 0.8rem; }
+.footer-copy { color: rgba(255,255,255,0.35); font-size: 0.85rem; }
 
 /* ---- RESPONSIVE ---- */
 @media (max-width: 768px) {
@@ -374,7 +376,7 @@ a:hover { color: var(--color-accent); }
 
   .hero { padding: 48px 0 40px; }
   .hero-inner { flex-direction: column-reverse; text-align: center; gap: 24px; }
-  .hero-text h1 { font-size: 1.9rem; }
+  .hero-text h1 { font-size: 2rem; }
   .hero-photo { width: 150px; height: 150px; }
 
   .contact-grid { grid-template-columns: 1fr; }
