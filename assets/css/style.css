@@ -265,7 +265,7 @@ a:hover { color: var(--color-accent); }
   line-height: 1.6;
 }
 .pub-list li:last-child { border-bottom: none; }
-.pub-title { color: #1a5276; }
+.pub-title { font-weight: 600; color: #3a3a3a; }
 .pub-journal { font-style: italic; color: var(--color-accent-light); }
 .pub-note { font-size: 0.9rem; color: var(--color-text-muted); }
 
