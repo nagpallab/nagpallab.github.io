@@ -3,6 +3,10 @@ layout: page
 title: Research
 ---
 
+<style>
+.pub-me-research { font-weight: 700; }
+</style>
+
 <p>A key challenge in precision medicine is understanding the drivers of inter-individual variability and how they mediate variability in disease risk and its outcomes. Our lab develops statistical genetics and integrative genomics strategies to improve disease risk stratification and patient outcomes. Our research spans four areas:</p>
 
 <div class="research-block" id="prsxe">
@@ -13,9 +17,9 @@ title: Research
       <p>Polygenic risk scores (PRSs) offer significant value in risk stratification rather than overall prediction or diagnosis. When integrated with environmental and clinical risk factors, PRS-based approaches enhance the ability to identify individuals on whom preventative interventions would be most impactful. Our work has demonstrated pervasive evidence of PRSxE interactions influencing common non-communicable diseases, underscoring the context-dependency of PRSs.</p>
       <p><strong>Key Publications:</strong></p>
       <ul class="key-pubs">
-        <li><span class="pub-me">Sini Nagpal</span> and Greg Gibson. Pervasive Interactions between Exposures and Polygenic Risk can Inform more Effective Clinical and Behavioral Intervention. <span class="pub-journal">Nature Genetics</span> (2026).</li>
-        <li><span class="pub-me">Sini Nagpal</span>, Raghav Tandon, Greg Gibson. Canalization of the polygenic risk of common diseases and traits in the UK Biobank. <span class="pub-journal">Molecular Biology and Evolution</span> (2022).</li>
-        <li><span class="pub-me">Sini Nagpal</span>, Greg Gibson, Urko M. Marigorta. Pervasive modulation of obesity risk by the environment and genomic background. <span class="pub-journal">Genes</span> (2018).</li>
+        <li><span class="pub-me-research">Sini Nagpal</span> and Greg Gibson. Pervasive Interactions between Exposures and Polygenic Risk can Inform more Effective Clinical and Behavioral Intervention. <span class="pub-journal">Nature Genetics</span> (2026).</li>
+        <li><span class="pub-me-research">Sini Nagpal</span>, Raghav Tandon, Greg Gibson. Canalization of the polygenic risk of common diseases and traits in the UK Biobank. <span class="pub-journal">Molecular Biology and Evolution</span> (2022).</li>
+        <li><span class="pub-me-research">Sini Nagpal</span>, Greg Gibson, Urko M. Marigorta. Pervasive modulation of obesity risk by the environment and genomic background. <span class="pub-journal">Genes</span> (2018).</li>
       </ul>
     </div>
   </div>
@@ -29,9 +33,9 @@ title: Research
       <p>An important goal of clinical genomics is to not only predict disease onset but progression to adverse outcomes, recurrence as well as response to treatments. Integrative genomics enables the integration of genetics with dynamic variables such as transcriptomics and metabolomics to unravel the complexity of common diseases. </p>
       <p><strong>Key Publications:</strong></p>
       <ul class="key-pubs">
-        <li>Kyle Gettler, <span class="pub-me">Sini Nagpal</span>, et al. Post-operative ileum transcriptomics implicates sex-biased mechanisms of Crohn's disease recurrence. <span class="pub-journal">Gastroenterology</span> (2025).</li>
-        <li>Angela Mo*, <span class="pub-me">Sini Nagpal*</span>, et al. Stratification of risk of progression to colectomy in ulcerative colitis via measured and predicted gene expression. <span class="pub-journal">American Journal of Human Genetics</span> (2021).</li>
-        <li><span class="pub-me">Sini Nagpal*</span>, Xiaoran Meng*, et al. TIGAR: An improved Bayesian tool for transcriptomic data imputation enhances gene mapping of complex traits. <span class="pub-journal">American Journal of Human Genetics</span> (2019).</li>
+        <li>Kyle Gettler, <span class="pub-me-research">Sini Nagpal</span>, Savannah Washburn, Christopher Tastad, Jiayu Zhang, Ksenija Sabic, Mark Lazarev, Alain Bitton, Rita Cohen, Marc B. Schwartz, Arthur Barrie, Philip Gu, Philip Fleshner, Michelle Bao, Cristian Hernández-Rocha, Jacob McCauley, Maria Abreu, Subra Kugathasan, Dermot P. McGovern, Steven R. Brant, Richard H. Duerr, Mark S. Silverberg, John D. Rioux, Greg Gibson, Judy H. Cho. Post-operative ileum transcriptomics implicates sex-biased mechanisms of Crohn's disease recurrence. <span class="pub-journal">Gastroenterology</span> (2025).</li>
+        <li>Angela Mo*, <span class="pub-me-research">Sini Nagpal*</span>, Kyle Gettler, Talin Haritunians, Mamta Giri, Yael Haberman, Rebekah Karns, Jarod Prince, Dalia Arafat, Nai-Yun Hsu, Ling-Shiang Chuang, Carmen Argmann, Andrew Kasarskis, Mayte Suarez-Farinas, Nathan Gotman, Emebet Mengesha, Suresh Venkateswaran, Paul A. Rufo, Susan S. Baker, Cary G. Sauer, James Markowitz, Marian D. Pfefferkorn, Joel R. Rosh, Brendan M. Boyle, David R. Mack, Robert N. Baldassano, Sapana Shah, Neal S. LeLeiko, Melvin B. Heyman, Anne M. Griffiths, Ashish S. Patel, Joshua D. Noe, Sonia Davis Thomas, Bruce J. Aronow, Thomas D. Walters, Dermot P.B. McGovern, Jeffrey S. Hyams, Subra Kugathasan, Judy H. Cho, Lee A. Denson, Greg Gibson. Stratification of risk of progression to colectomy in ulcerative colitis via measured and predicted gene expression. <span class="pub-journal">American Journal of Human Genetics</span> (2021). (*Equal contribution)</li>
+        <li><span class="pub-me-research">Sini Nagpal*</span>, Xiaoran Meng*, Michael P. Epstein, Lam C. Tsoi, Matthew Patrick, Greg Gibson, Philip L. De Jager, David A. Bennett, Aliza P. Wingo, Thomas S. Wingo, Jingjing Yang. TIGAR: An improved Bayesian tool for transcriptomic data imputation enhances gene mapping of complex traits. <span class="pub-journal">American Journal of Human Genetics</span> (2019). (*Equal contribution)</li>
       </ul>
     </div>
   </div>
@@ -45,7 +49,7 @@ title: Research
       <p>PRSs can identify subgroups of individuals with disease risk comparable to monogenic mutations. While rare pathogenic variants can confer several-fold increased risk, there is often large clinical variability due to incomplete penetrance and variable expressivity. A key question is how monogenic and polygenic risk interact, and whether disease risk from rare pathogenic variants is modulated by the polygenic background. Disentangling rare and common variant contributions has important implications for understanding disease physiology and therapeutic interventions.</p>
       <p><strong>Key Publications:</strong></p>
       <ul class="key-pubs">
-        <li><span class="pub-me">Sini Nagpal</span>, Kosar Hooshmand, et al. A genome-wide association study implicates the glutamate signaling pathway in sarcoma susceptibility. (Under review).</li>
+        <li><span class="pub-me-research">Sini Nagpal</span>, Kosar Hooshmand, Piyushkumar Mundra, Mandy L. Ballinger, International Sarcoma Kindred Study (ISKS), Greg Gibson, David M. Thomas. A genome-wide association study implicates the glutamate signaling pathway in sarcoma susceptibility. (Under review).</li>
       </ul>
     </div>
   </div>
@@ -59,8 +63,8 @@ title: Research
       <p>Since genetic studies are largely European-biased, risk predictors are not translatable to individuals of non-European and mixed ancestries, exacerbating health disparities. As we move towards precision medicine, it is vital to include understudied populations in genetic analyses. Our lab studies the differential genetic architecture of diseases across populations and develops ancestry-informed genetic risk assessment approaches.</p>
       <p><strong>Key Publications:</strong></p>
       <ul class="key-pubs">
-        <li>Hari K. Somineni, <span class="pub-me">Sini Nagpal</span>, et al. Whole-genome sequencing of African Americans implicates differential genetic architecture in inflammatory bowel disease. <span class="pub-journal">American Journal of Human Genetics</span> (2021).</li>
-        <li>Courtney Astore, Shivam Sharma, <span class="pub-me">Sini Nagpal</span>, et al. The role of admixture in rare variant contributions to inflammatory bowel disease. <span class="pub-journal">Genome Medicine</span> (2023).</li>
+        <li>Hari K. Somineni, <span class="pub-me-research">Sini Nagpal</span>, Suresh Venkateswaran, David J. Cutler, David T. Okou, Talin Haritunians, Claire L. Simpson, Ferdouse Begum, Lisa W. Datta, Antonio J. Quiros, Jenifer Seminerio, Emebet Mengesha, et al. Whole-genome sequencing of African Americans implicates differential genetic architecture in inflammatory bowel disease. <span class="pub-journal">American Journal of Human Genetics</span> (2021).</li>
+        <li>Courtney Astore, Shivam Sharma, <span class="pub-me-research">Sini Nagpal</span>, NIDDK IBD Genetics Consortium, David J. Cutler, John D. Rioux, Judy H. Cho, Dermot P.B. McGovern, Steven R. Brant, Subra Kugathasan, I. King Jordan, Greg Gibson. The role of admixture in rare variant contributions to inflammatory bowel disease. <span class="pub-journal">Genome Medicine</span> (2023).</li>
       </ul>
     </div>
   </div>
