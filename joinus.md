@@ -9,7 +9,7 @@ title: Join Us
 
   <div class="position-card">
     <h3>PhD Students</h3>
-    <p>We are looking for motivated PhD students with a background in bioinformatics, computational biology, statistics, biotechnology or a related quantitative field. Students with experience in human genetics/genomics, foundational statistics, and data analysis using R or Python are preferred.</p>
+    <p>We are looking for motivated PhD students with a background in bioinformatics, computational biology, statistics, biotechnology or a related quantitative field. Students with experience in human genetics/genomics, statistics, and data analysis using R or Python are preferred.</p>
     <p>Admission is through the KCDH, IIT Bombay graduate admissions process.</p>
   </div>
   
