@@ -2,12 +2,14 @@
 layout: page
 title: Teaching
 ---
-
+<!--
 <p>Courses taught by Dr. Sini Nagpal at IIT Bombay.</p>
 
 <div class="course-item">
   <h3>Course Title — Coming Soon</h3>
   <p class="course-meta">Semester &middot; IIT Bombay</p>
+  -->
+  <div class="course-item">
   <p>Details about courses will be updated once the academic term begins.</p>
 </div>
 
