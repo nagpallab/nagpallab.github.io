@@ -9,7 +9,7 @@ title: People
     <div class="person-card">
       <!-- Replace with your photo: /assets/images/sini-nagpal.jpg -->
       <div class="person-photo"></div>
-      <p class="person-name">Dr. Sini Nagpal</p>
+      <p class="person-name">Sini Nagpal, PhD</p>
       <p class="person-role">Assistant Professor</p>
       <p class="person-role">Koita Centre for Digital Health, IIT Bombay</p>
       <p style="margin-top: 8px;">
