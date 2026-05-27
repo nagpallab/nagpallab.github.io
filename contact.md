@@ -15,9 +15,9 @@ title: Contact
     <h3>Get in Touch</h3>
     <p>
       <!-- UPDATE with your IIT Bombay email -->
-      Email: <a href="mailto:sini.nagpal@iitb.ac.in">sini.nagpal@iitb.ac.in</a><br>
+      Email: <br>
       <!-- Update the office number once assigned -->
-      Office: TBD
+      Office: <br>
     </p>
     <p style="margin-top: 12px;">
       <a href="https://scholar.google.com/citations?user=Xm1CBE4AAAAJ&hl=en" target="_blank">Google Scholar</a> &middot;
