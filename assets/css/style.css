@@ -241,7 +241,7 @@ a:hover { color: var(--color-accent); }
   align-items: flex-start;
 }
 .research-block-img {
-  width: 320px;
+  width: 300px;
   flex-shrink: 0;
   border-radius: 8px;
   border: 1px solid var(--color-border);
