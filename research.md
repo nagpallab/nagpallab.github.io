@@ -22,11 +22,11 @@ title: Research
 </div>
 
 <div class="research-block" id="integrative">
-  <h2>2. Integrative Genomics for Disease Progression</h2>
+  <h2>2. Integrative Genomics</h2>
   <div class="research-block-content">
     <img src="/assets/images/research-integrative.png" alt="Integrative genomics research" class="research-block-img">
     <div>
-      <p>Integrative genomics enables the integration of genetics with dynamic variables such as transcriptomics, which helps to unravel the complexity of common diseases. While polygenic risk scores are useful in predicting disease onset, they are unable to provide meaningful predictions of adverse outcomes. Combining genetic and gene expression data offers a more complete picture.</p>
+      <p>Integrative genomics enables the integration of genetics with dynamic variables such as transcriptomics and metabolomics to unravel the complexity of common diseases. An important goal of clinical genomics is to not only predict disease onset but progression to adverse outcomes, recurrence as well as response to treatments.</p>
       <p><strong>Key Publications:</strong></p>
       <ul class="key-pubs">
         <li>Gettler K, Nagpal S, Washburn S, et al. Post-operative ileum transcriptomics implicates sex-biased mechanisms of Crohn's disease recurrence. <span class="pub-journal">Gastroenterology</span> (2025).</li>
