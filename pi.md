@@ -79,5 +79,5 @@ title: Principal Investigator
 
 <div class="pi-section">
   <h2>Beyond Research</h2>
-  <p>Outside the lab, Sini enjoys spending time with her family — going on long walks with her partner, exploring new activities with her son, and listening to instrumental piano music. A former National level Quad-Speed Skating player, she also enjoys table tennis and swimming.</p>
+  <p>Outside the lab, Sini enjoys spending time with her family - going on long walks with her partner, exploring new activities with her son, and listening to instrumental piano music. A former National level Quad-Speed Skating player, she also enjoys table tennis and swimming.</p>
 </div>
