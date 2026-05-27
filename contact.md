@@ -24,6 +24,7 @@ title: Contact
       <a href="https://x.com/NagpalSini" target="_blank">X / Twitter</a> &middot;
       <a href="https://www.linkedin.com/in/sini-nagpal-phd-19745288/" target="_blank">LinkedIn</a> &middot;
       <a href="https://bsky.app/profile/nagpalsini.bsky.social" target="_blank">Bluesky</a>
+      <a href="https://sininagpal.wixsite.com/snagpal" target="_blank">Personal Website</a>
     </p>
   </div>
 </div>
