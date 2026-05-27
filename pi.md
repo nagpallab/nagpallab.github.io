@@ -24,7 +24,7 @@ title: Principal Investigator
 
   <p>Sini completed her PhD and postdoctoral training with Dr. Greg Gibson at the Georgia Institute of Technology, where she spent nine years developing expertise in human genetics, statistical genetics, integrative genomics, and their implications for precision medicine. Her work has leveraged large-scale biobanks and clinical cohorts to understand the genetic architecture of common non-communicable diseases, as well as rare diseases such as sarcoma. She has established collaborations with researchers and clinicians across the US and internationally, as well as contributing to initiatives such as the IBD Genetics Consortium and eQTLGen Consortium.</p>
 
-  <p>Building on this training, Sini is interested in enabling large-scale genetic studies in Indian populations and contributing to the growth of precision genomic medicine in India, with insights relevant to diverse populations.</p>
+  <p>Building on this training, Sini is interested in enabling large-scale genetic studies in Indian populations and contributing to the growth of precision genomic medicine in India.</p>
 </div>
 
 <div class="pi-section">
