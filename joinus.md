@@ -3,14 +3,14 @@ layout: page
 title: Join Us
 ---
 
-<p>We are building a collaborative and supportive research team at the intersection of statistical genetics, integrative genomics, and precision medicine. If you are passionate about using computational approaches to understand human disease, we'd love to hear from you.</p>
+<p>We are building a collaborative and supportive research team at the intersection of statistical genetics, integrative genomics, and precision medicine. If you are interested in using computational approaches, statistics, and human genetics to understand disease risk, we encourage you to reach out.</p>
 
 <div class="positions-list">
 
   <div class="position-card">
     <h3>PhD Students</h3>
-    <p>We are looking for motivated PhD students with a background in bioinformatics, computational biology, statistics, or a related quantitative field. Students should have strong programming skills (R or Python) and an interest in genomics and human genetics.</p>
-    <p>Admission is through the IIT Bombay graduate admissions process. Please <a href="/contact/">contact Dr. Nagpal</a> before applying to discuss potential projects.</p>
+    <p>We are looking for motivated PhD students with a background in bioinformatics, computational biology, statistics, biotechnology or a related quantitative field. Students with experience in human genetics/genomics, foundational statistics, and data analysis using R or Python are preferred.</p>
+    <p>Admission is through the KCDH, IIT Bombay graduate admissions process.</p>
   </div>
 
   <div class="position-card">
