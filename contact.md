@@ -21,8 +21,8 @@ title: Contact
     </p>
     <p style="margin-top: 12px;">
       <a href="https://scholar.google.com/citations?user=Xm1CBE4AAAAJ&hl=en" target="_blank">Google Scholar</a> &middot;
+       <a href="https://www.linkedin.com/in/sini-nagpal-phd-19745288/" target="_blank">LinkedIn</a> &middot;
       <a href="https://x.com/NagpalSini" target="_blank">X / Twitter</a> &middot;
-      <a href="https://www.linkedin.com/in/sini-nagpal-phd-19745288/" target="_blank">LinkedIn</a> &middot;
       <a href="https://bsky.app/profile/nagpalsini.bsky.social" target="_blank">Bluesky</a> &middot;
       <a href="https://sininagpal.wixsite.com/snagpal" target="_blank">Personal Website</a>
     </p>
