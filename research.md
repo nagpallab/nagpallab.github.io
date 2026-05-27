@@ -3,14 +3,14 @@ layout: page
 title: Research
 ---
 
-<p>A key challenge in precision medicine is understanding the drivers of inter-individual variability and how they mediate disease risk and outcomes. Our lab develops statistical genetics and integrative genomics strategies to enable personalized risk assessments and treatment approaches for common non-communicable diseases. Our work broadly covers four areas:</p>
+<p>A key challenge in precision medicine is understanding the drivers of inter-individual variability and how they mediate variability in disease risk and its outcomes. Our lab develops statistical genetics and integrative genomics strategies to improve disease risk stratification and patient outcomes. Our work broadly covers four areas:</p>
 
 <div class="research-block" id="prsxe">
   <h2>1. Polygenic Risk Score &times; Environment Interactions (PRS&times;E)</h2>
   <div class="research-block-content">
     <img src="/assets/images/research-prs.png" alt="PRS x Environment research" class="research-block-img">
     <div>
-      <p>Polygenic risk scores (PRSs) offer significant value in risk stratification. When integrated with environmental and clinical risk factors, PRS-based approaches enhance the ability to identify individuals on whom preventative interventions would be most impactful. Our work has demonstrated pervasive evidence of PRSxE interactions influencing common diseases, underscoring the context-dependency of PRSs.</p>
+      <p>Polygenic risk scores (PRSs) offer significant value in risk stratification rather than overall prediction or diagnosis. When integrated with environmental and clinical risk factors, PRS-based approaches enhance the ability to identify individuals on whom preventative interventions would be most impactful. Our work has demonstrated pervasive evidence of PRSxE interactions influencing common non-communicable diseases, underscoring the context-dependency of PRSs.</p>
       <p><strong>Key Publications:</strong></p>
       <ul class="key-pubs">
         <li>Nagpal S and Gibson G. Pervasive Interactions between Exposures and Polygenic Risk can Inform more Effective Clinical and Behavioral Intervention. <span class="pub-journal">Nature Genetics</span> (2026).</li>
