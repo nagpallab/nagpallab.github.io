@@ -56,6 +56,7 @@ title: Principal Investigator
         <p class="pi-position">PhD Bioinformatics (Statistical Genetics)</p>
         <p class="pi-institution">Georgia Institute of Technology, Atlanta, GA, USA</p>
         <p class="pi-thesis">Thesis: <em>Genetic and Environmental Factors Influencing the Genomic Prediction of Complex Traits.</em></p>
+        <p class="pi-thesis">Advisor: Dr. Greg Gibson</p>
       </div>
     </div>
     <div class="pi-timeline-item">
