@@ -26,7 +26,7 @@ title: Research
   <div class="research-block-content">
     <img src="/assets/images/research-integrative.png" alt="Integrative genomics research" class="research-block-img">
     <div>
-      <p>Integrative genomics enables the integration of genetics with dynamic variables such as transcriptomics and metabolomics to unravel the complexity of common diseases. An important goal of clinical genomics is to not only predict disease onset but progression to adverse outcomes, recurrence as well as response to treatments.</p>
+      <p>An important goal of clinical genomics is to not only predict disease onset but progression to adverse outcomes, recurrence as well as response to treatments. Integrative genomics enables the integration of genetics with dynamic variables such as transcriptomics and metabolomics to unravel the complexity of common diseases. </p>
       <p><strong>Key Publications:</strong></p>
       <ul class="key-pubs">
         <li>Gettler K, Nagpal S, Washburn S, et al. Post-operative ileum transcriptomics implicates sex-biased mechanisms of Crohn's disease recurrence. <span class="pub-journal">Gastroenterology</span> (2025).</li>
@@ -38,11 +38,11 @@ title: Research
 </div>
 
 <div class="research-block" id="monogenic">
-  <h2>3. Monogenic vs Polygenic Risk in Rare Disease</h2>
+  <h2>3. Monogenic vs Polygenic Risk </h2>
   <div class="research-block-content">
     <img src="/assets/images/research-monogenic.png" alt="Monogenic vs polygenic risk research" class="research-block-img">
     <div>
-      <p>A small subset of the population carries pathogenic variants associated with large increases in disease risk, yet there is large clinical variability among affected individuals. A key question is how monogenic and polygenic risk interact — to what extent can disease risk from a rare pathogenic variant be modulated by the polygenic background? Disentangling these contributions has implications for both understanding disease physiology and therapeutic interventions.</p>
+      <p>PRSs can identify subgroups of individuals with disease risk comparable to monogenic mutations. While rare pathogenic variants can confer several-fold increased risk, there is often large clinical variability due to incomplete penetrance and variable expressivity. A key question is how monogenic and polygenic risk interact, and whether disease risk from rare pathogenic variants is modulated by the polygenic background. Disentangling rare and common variant contributions has important implications for understanding disease physiology and therapeutic interventions.</p>
       <p><strong>Key Publications:</strong></p>
       <ul class="key-pubs">
         <li>Nagpal S, Hooshmand K, et al. A genome-wide association study implicates the glutamate signaling pathway in sarcoma susceptibility. (Under review).</li>
@@ -52,11 +52,11 @@ title: Research
 </div>
 
 <div class="research-block" id="ancestry">
-  <h2>4. Ancestry-Specific Genetic Effects on Disease Risk</h2>
+  <h2>4. Ancestry-Specific Genetic Effects and Health Equity</h2>
   <div class="research-block-content">
     <img src="/assets/images/research-ancestry.png" alt="Ancestry and health equity research" class="research-block-img">
     <div>
-      <p>Since genomic studies are largely European-biased, risk predictors are not translatable to individuals of non-European and mixed ancestries, exacerbating health disparities. As we move towards precision medicine, it is vital to include understudied populations in genomic analyses. Our lab studies the differential genetic architecture of diseases across populations and develops ancestry-informed risk assessment tools.</p>
+      <p>Since genetic studies are largely European-biased, risk predictors are not translatable to individuals of non-European and mixed ancestries, exacerbating health disparities. As we move towards precision medicine, it is vital to include understudied populations in genetic analyses. Our lab studies the differential genetic architecture of diseases across populations and develops ancestry-informed genetic risk assessment approaches.</p>
       <p><strong>Key Publications:</strong></p>
       <ul class="key-pubs">
         <li>Somineni H, Nagpal S, Venkateswaran S, et al. Whole-genome sequencing of African Americans implicates differential genetic architecture in inflammatory bowel disease. <span class="pub-journal">American Journal of Human Genetics</span> (2021).</li>
