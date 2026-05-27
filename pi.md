@@ -13,7 +13,8 @@ title: Principal Investigator
       <a href="https://scholar.google.com/citations?user=Xm1CBE4AAAAJ&hl=en" target="_blank">Google Scholar</a> &middot;
       <a href="https://www.linkedin.com/in/sini-nagpal-phd-19745288/" target="_blank">LinkedIn</a> &middot;
       <a href="https://x.com/NagpalSini" target="_blank">X</a> &middot;
-      <a href="https://bsky.app/profile/nagpalsini.bsky.social" target="_blank">Bluesky</a>
+      <a href="https://bsky.app/profile/nagpalsini.bsky.social" target="_blank">Bluesky</a> &middot;
+      <a href="/assets/docs/nagpal-cv.pdf" target="_blank">CV</a>
     </p>
   </div>
 </div>
