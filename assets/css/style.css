@@ -130,6 +130,15 @@ a:hover { color: var(--color-accent); }
   flex-shrink: 0;
 }
 
+.hero-logos {
+  margin-top: 24px;
+}
+.hero-logos img {
+  height: 55px;
+  width: auto;
+  opacity: 0.9;
+}
+
 /* ---- HOMEPAGE SECTIONS ---- */
 .home-section {
   padding: 56px 0;
@@ -303,6 +312,47 @@ a:hover { color: var(--color-accent); }
   font-size: 0.93rem;
   color: var(--color-text-muted);
   margin-top: 2px;
+}
+.person-bio {
+  font-size: 0.88rem;
+  color: var(--color-text-muted);
+  margin-top: 8px;
+  line-height: 1.5;
+  max-width: 280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Compact people grid */
+.people-row-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 24px;
+}
+.person-compact {
+  text-align: center;
+}
+.person-photo-sm {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  object-fit: cover;
+  background: var(--color-highlight);
+  border: 3px solid var(--color-border);
+  margin: 0 auto 10px;
+}
+.person-info {
+  flex: 1;
+}
+.person-bio-inline {
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  margin-top: 4px;
+  line-height: 1.5;
+}
+.person-links {
+  font-size: 0.88rem;
+  margin-top: 6px;
 }
 
 /* ---- TEACHING ---- */
@@ -501,4 +551,8 @@ a:hover { color: var(--color-accent); }
   .research-areas { grid-template-columns: 1fr; }
   .research-block-content { flex-direction: column; }
   .research-block-img { width: 100%; max-width: 320px; }
+
+  .person-row { flex-direction: column; text-align: center; }
+  .person-photo-sm { margin: 0 auto; }
+  .people-row-grid { grid-template-columns: repeat(2, 1fr); }
 }
