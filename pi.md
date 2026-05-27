@@ -20,9 +20,11 @@ title: Principal Investigator
 </div>
 
 <div class="pi-section">
-  <p>Dr. Sini Nagpal joins the Koita Centre for Digital Health at IIT Bombay as an Assistant Professor in July 2026. Her research group focuses on leveraging statistical genetics and developing integrative genomic approaches to assess human disease risk, with the broader goal of advancing precision genomic medicine in India.</p>
+  <p>Dr. Sini Nagpal joins the Koita Centre for Digital Health at IIT Bombay as an Assistant Professor in July 2026. Her research group focuses on leveraging statistical genetics and developing integrative genomic approaches to assess human disease risk, with the broader goal of advancing precision genomic medicine.</p>
 
-  <p>Over the past nine years, her research has focused on developing polygenic models and integrative genomics approaches to assess human disease risk, leveraging large-scale biobank datasets to inform precision medicine. These projects involve collaborations with researchers and clinicians across US and international institutes, and include contributions to large-scale initiatives such as the IBD Genetics Consortium and eQTLGen Consortium.</p>
+  <p>Sini completed her PhD and postdoctoral training with Dr. Greg Gibson at the Georgia Institute of Technology, where she spent nine years developing expertise in human genetics, statistical genetics, integrative genomics, and their implications for precision medicine. Her work has leveraged large-scale biobanks and clinical cohorts to understand the genetic architecture of common non-communicable diseases, as well as rare diseases such as sarcoma. She has established collaborations with researchers and clinicians across the US and internationally, as well as contributing to initiatives such as the IBD Genetics Consortium and eQTLGen Consortium.</p>
+
+  <p>Building on this training, Sini is interested in enabling large-scale genetic studies in Indian populations and contributing to the growth of precision genomic medicine in India, with insights relevant to diverse populations.</p>
 </div>
 
 <div class="pi-section">
