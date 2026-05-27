@@ -31,7 +31,7 @@ title: Principal Investigator
   <h2>Academic Positions</h2>
   <div class="pi-timeline">
     <div class="pi-timeline-item">
-      <span class="pi-year">Jul 2026 –</span>
+      <span class="pi-year">Jul 2026 – Present</span>
       <div>
         <p class="pi-position">Assistant Professor</p>
         <p class="pi-institution">Koita Centre for Digital Health, Indian Institute of Technology Bombay, Mumbai, India</p>
