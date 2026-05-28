@@ -9,7 +9,7 @@ title: Join Us
 
   <div class="position-card">
     <h3>PhD Students</h3>
-    <p>We are looking for motivated PhD students with a background in bioinformatics, computational biology, statistics, biotechnology or a related quantitative field. Students with experience in human genetics/genomics, statistics, and data analysis using R or Python are preferred.</p>
+    <p>We are looking for motivated PhD students with a background in bioinformatics, computational biology, statistics, data science, biotechnology or a related quantitative field. Students with experience in human genetics/genomics, statistics, and data analysis using R or Python are preferred.</p>
     <p>Admission is through the KCDH, IIT Bombay graduate admissions process.</p>
   </div>
   
@@ -18,10 +18,10 @@ title: Join Us
     <h3>Postdoctoral Fellows</h3>
     <p>Postdoc positions may be available depending on funding. Candidates with experience in GWAS, polygenic risk scores, transcriptomics, or integrative genomics are encouraged to reach out with a CV and a brief statement of research interests.</p>
   </div>
-
-  <div class="position-card">
-    <h3>Research Assistants &amp; Project Staff</h3>
-    <p>Openings for research assistants and project staff will be posted here as they become available.</p>
-  </div>
 -->
+  <div class="position-card">
+    <h3>Other Positions</h3>
+    <p>Openings for postdoctoral fellows, research assistants and project staff will be posted here as they become available.</p>
+  </div>
+  
 </div>
