@@ -24,8 +24,8 @@ nav_links:
     url: /news/
   - title: Join Us
     url: /joinus/
-  - title: Contact
-    url: /contact/
+ # - title: Contact
+ #   url: /contact/
 
 # Social links
 scholar_url: "https://scholar.google.com/citations?user=Xm1CBE4AAAAJ&hl=en"
