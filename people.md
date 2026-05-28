@@ -19,11 +19,13 @@ title: People
 <div class="people-section">
   <h2>PhD Students</h2>
   <div class="people-row-grid">
+    <!--
     <div class="person-compact">
       <img src="/assets/images/ritwika-nandi.jpg" alt="Ritwika Nandi" class="person-photo-sm">
       <p class="person-name">Ritwika Nandi</p>
       <p class="person-role">B.Sc Life Sciences, University of Delhi | M.Sc Bioinformatics, GGS IP University</p>
     </div>
+    -->
     <!-- Add more PhD students here — they'll appear side by side -->
   </div>
 </div>
@@ -32,10 +34,12 @@ title: People
   <h2>MS Students</h2>
   <div class="people-row-grid">
     <div class="person-compact">
+       <!--
       <img src="/assets/images/vishnu-prakash.jpg" alt="Vishnu Prakash" class="person-photo-sm">
       <p class="person-name">Vishnu Prakash</p>
       <p class="person-role">B.Tech Biotechnology, VIT Vellore</p>
     </div>
+      -->
     <!-- Add more MS students here — they'll appear side by side -->
   </div>
 </div>
