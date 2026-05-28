@@ -10,7 +10,7 @@ title: People
       <img src="/assets/images/sini-nagpal.jpg" alt="Dr. Sini Nagpal" class="person-photo-sm">
       <p class="person-name">Sini Nagpal, PhD</p>
       <p class="person-role">Assistant Professor, KCDH, IIT Bombay</p>
-      <p class="person-role">B.Tech Biotechnology, Thapar University | PhD Bioinformatics, Georgia Tech</p>
+      <p class="person-role">PhD Bioinformatics (Statistical Genetics), Georgia Institute of Technology, Atlanta, USA</p>
       <p class="person-links"><a href="/pi/">Bio</a> &middot; <a href="https://scholar.google.com/citations?user=Xm1CBE4AAAAJ&hl=en" target="_blank">Scholar</a> &middot; <a href="https://x.com/NagpalSini" target="_blank">X</a> &middot; <a href="https://www.linkedin.com/in/sini-nagpal-phd-19745288/" target="_blank">LinkedIn</a></p>
     </div>
   </div>
