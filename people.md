@@ -47,12 +47,14 @@ title: People
 <div class="people-section">
   <h2>Undergraduate Students</h2>
   <div class="people-row-grid">
+    <!--
     <div class="person-compact">
       <div class="person-photo-sm"></div>
       <p class="person-name">Open Position</p>
       <p class="person-role">We are recruiting! See <a href="/joinus/">Join Us</a>.</p>
     </div>
   </div>
+    -->
 </div>
 
 <!--
