@@ -10,7 +10,7 @@ permalink: /news/:year/:month/:day/:title/
 
 # Navigation
 nav_links:
-- title: Home
+  - title: Home
     url: /
   - title: PI
     url: /pi/
