@@ -20,7 +20,7 @@ title: Principal Investigator
 </div>
 
 <div class="pi-section">
-  <p>Dr. Sini Nagpal joins the Koita Centre for Digital Health at IIT Bombay as an Assistant Professor in July 2026. Her research group focuses on leveraging large-scale biobank datasets to develop integrative polygenic risk models for disease risk assessment, with the goal of advancing precision genomic medicine.</p>
+  <p>Dr. Sini Nagpal joined the Koita Centre for Digital Health at IIT Bombay as an Assistant Professor in June 2026. Her research group focuses on leveraging large-scale biobank datasets to develop integrative polygenic risk models for disease risk assessment, with the goal of advancing precision genomic medicine.</p>
 
   <p>Sini completed her PhD and postdoctoral training with Dr. Greg Gibson at the Georgia Institute of Technology, where she spent nine years developing expertise in human genetics, statistical genetics, integrative genomics and understand their implications for precision medicine. Her work has leveraged large-scale biobanks and clinical cohorts to understand the genetic architecture of common non-communicable diseases, as well as rare diseases such as sarcoma cancer. She has established collaborations with researchers and clinicians across the US and internationally, as well as contributing to initiatives such as the IBD Genetics Consortium and eQTLGen Consortium.</p>
 
