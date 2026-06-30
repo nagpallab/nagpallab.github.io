@@ -5,7 +5,7 @@ title: News
 
 <ul class="news-list news-full-list">
   <li>
-    <span class="news-date">Jul 2026</span>
+    <span class="news-date">June 2026</span>
     <span>Nagpal Lab officially launches at the Koita Centre for Digital Health, IIT Bombay!</span>
   </li>
   <li>
