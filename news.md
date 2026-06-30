@@ -10,7 +10,7 @@ title: News
   </li>
   <li>
     <span class="news-date">2026</span>
-    <span>Sini's paper on pervasive PRSxE interactions accepted at <em>Nature Genetics</em>!</span>
+    <span>Sini's paper on pervasive PRSxE interactions and its utility accepted at <em>Nature Genetics</em>!</span>
   </li>
     <li>
     <span class="news-date">2026</span>
