@@ -19,24 +19,23 @@ title: People
 <div class="people-section">
   <h2>PhD Students</h2>
   <div class="people-row-grid">
-    <!--
     <div class="person-compact">
-   
+      <div class="person-photo-sm"></div>
+      <p class="person-name">Ritwika Nandi</p>
+      <p class="person-role">M.Sc Bioinformatics, GGS Indraprastha University, New Delhi | B.Sc Life Sciences, University of Delhi</p>
     </div>
-    -->
-    <!-- Add more PhD students here — they'll appear side by side -->
+    <div class="person-compact">
+      <div class="person-photo-sm"></div>
+      <p class="person-name">Vaishnavi Tiwari</p>
+      <p class="person-role">M.Tech Biotechnology, IIT Gandhinagar | B.Tech Biochemical Engineering, HBTU</p>
+    </div>
   </div>
 </div>
 
 <div class="people-section">
   <h2>MS Students</h2>
   <div class="people-row-grid">
-    <div class="person-compact">
-       <!--
-    
-    </div>
-      -->
-    <!-- Add more MS students here — they'll appear side by side -->
+    <!-- Add MS students here -->
   </div>
 </div>
 
