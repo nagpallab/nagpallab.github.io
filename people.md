@@ -25,7 +25,7 @@ title: People
       <p class="person-role">M.Sc Bioinformatics, GGS Indraprastha University, New Delhi | B.Sc Life Sciences, University of Delhi</p>
     </div>
     <div class="person-compact">
-      <div class="person-photo-sm"></div>
+      <img src="/assets/images/vaishnavi-tiwari.jpg" alt="Vaishnavi Tiwari" class="person-photo-sm">
       <p class="person-name">Vaishnavi Tiwari</p>
       <p class="person-role">M.Tech Biotechnology, IIT Gandhinagar | B.Tech Biochemical Engineering, HBTU</p>
     </div>
