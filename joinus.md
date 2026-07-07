@@ -25,3 +25,5 @@ title: Join Us
   </div>
   
 </div>
+
+<p style="margin-top: 24px;">Contact: <a href="mailto:sini.nagpal@iitb.ac.in">sini.nagpal@iitb.ac.in</a></p>
