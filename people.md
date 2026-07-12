@@ -20,7 +20,7 @@ title: People
   <h2>PhD Students</h2>
   <div class="people-row-grid">
     <div class="person-compact">
-      <div class="person-photo-sm"></div>
+      <img src="/assets/images/ritwika-nandi.jpeg" alt="Vaishnavi Tiwari" class="person-photo-sm">
       <p class="person-name">Ritwika Nandi</p>
       <p class="person-role">M.Sc Bioinformatics, GGS Indraprastha University, New Delhi | B.Sc Life Sciences, University of Delhi</p>
     </div>
