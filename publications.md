@@ -12,7 +12,7 @@ title: Publications
 
 <h2 class="pub-year">2026</h2>
 <ul class="pub-list">
-  <li><span class="pub-me">Sini Nagpal</span> and Greg Gibson. <span class="pub-title">Pervasive Interactions between Exposures and Polygenic Risk can Inform more Effective Clinical and Behavioral Intervention.</span> <span class="pub-journal">Nature Genetics</span> (Accepted). <a href="https://www.medrxiv.org/content/10.1101/2024.07.29.24311065v1" target="_blank">[Preprint]</a></li>
+  <li><span class="pub-me">Sini Nagpal</span> and Greg Gibson. <span class="pub-title">Pervasive Interactions between Exposures and Polygenic Risk can Inform more Effective Clinical and Behavioral Intervention.</span> <span class="pub-journal">Nature Genetics</span></li>
   <li><span class="pub-me">Sini Nagpal</span>, Kosar Hooshmand, Piyushkumar Mundra, Mandy L. Ballinger, International Sarcoma Kindred Study (ISKS), Greg Gibson, David M. Thomas. <span class="pub-title">A genome-wide association study of sarcoma suggests shared genetic overlap with rare variant susceptibility.</span> <span class="pub-note">(Under review)</span></li>
   <li>CAR Warmerdam, Harm-Jan Westra, Adriaan van der Graaf, Marc Jan Bonder, Patrick Deelen, Tijs van Lieshout, Anke Jannie Landman, Mihkel Jesse, Benjamin J. Strober, Toni Boltz, Sandra Lapinska, <span class="pub-me">Sini Nagpal</span>, et al. <span class="pub-title">Trans-eQTLs reveal the architecture of human gene regulatory networks.</span> <span class="pub-note">(Under review)</span></li>
 </ul>
