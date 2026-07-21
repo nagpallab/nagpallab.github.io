@@ -5,12 +5,17 @@ title: News
 
 <ul class="news-list news-full-list">
   <li>
+  <span class="news-date">2026</span>
+  <span>
+    Sini's paper on polygenic risk score-by-context (PGSxC) interactions and their utility published in
+    <a href="https://www.nature.com/articles/s41588-026-02674-z" target="_blank" rel="noopener noreferrer">
+      <strong><em>Nature Genetics</em></strong>
+    </a>!
+  </span>
+</li>
+  <li>
     <span class="news-date">June 2026</span>
     <span>Nagpal Lab officially launches at the Koita Centre for Digital Health, IIT Bombay!</span>
-  </li>
-  <li>
-    <span class="news-date">2026</span>
-    <span>Sini's paper on pervasive PRSxE interactions and its utility accepted at <em>Nature Genetics</em>!</span>
   </li>
     <li>
     <span class="news-date">2026</span>
